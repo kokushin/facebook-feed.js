@@ -30,7 +30,7 @@
         <figurte><img src="'+ picture +'"></figure>\
         <p>'+ message +'</p>\
         <a href="'+ link +'" target="_blank">'+ link +'</a>\
-      \</li>');
+      </li>');
     }
   });
 
